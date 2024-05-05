@@ -1,0 +1,129 @@
+Campaign_ID,Campaign_Type,Duration Start,Duration_End,Promotional Message,Holiday Indicator
+CAM1001,Sony Summer Spectacular,20-06-2020,25-06-2020,Experience the best of Sony's summer deals!,No
+CAM1002,Apple Back to School Sale,15-08-2020,31-08-2020,Gear up for school with exclusive Apple discounts!,No
+CAM1200,Apple Diwali Sale,15-10-2022,25-10-2022,Diwali Bonanza with exclusive Apple discounts!,No
+CAM1003,Nike Fall Fitness Fiesta,23-07-2021,08-08-2021,Get fit for fall with Nike's fitness fiesta!,No
+CAM1004,LG Home Entertainment Expo,25-11-2020,10-12-2020,Upgrade your home entertainment with LG's latest offers!,No
+CAM1005,Bose Sound Showcase,01-12-2020,15-12-2020,Immerse yourself in the world of Bose sound technology!,No
+CAM1006,Adidas Winter Sports Showcase,20-01-2021,25-01-2021,Experience the latest in winter sports at Adidas' showcase!,No
+CAM1007,Microsoft Business Tech Expo,10-03-2021,15-03-2021,Discover the future of business technology at Microsoft's expo!,No
+CAM1700,Microsoft Diwali Bonanza,08-11-2023,11-11-2023,Diwali Bonanza with exclusive Microsoft  discounts!,No
+CAM1008,Canon Photography Masterclass,25-04-2021,10-05-2021,Unleash your creativity with Canon's Photography Masterclass!,No
+CAM1009,Prada Luxury Fashion Showcase,20-06-2021,25-06-2021,Indulge in luxury with exclusive offers from Prada!,No
+CAM1010,Honeywell Smart Home Expo,15-08-2021,31-08-2021,Transform your home with Honeywell's smart home solutions!,No
+CAM1011,Samsung Galaxy Unveiling,10-09-2021,15-09-2021,Be the first to experience the new Samsung Galaxy series!,No
+CAM1012,Louis Vuitton Fall Collection,25-11-2021,10-12-2021,Discover the latest fall collection from Louis Vuitton!,No
+CAM1013,Nike Winter Wellness Expo,01-01-2022,15-01-2022,Elevate your wellness with Nike's exclusive winter offers!,No
+CAM1014,Sony Spring Showcase,20-02-2022,25-02-2022,Experience the latest in spring trends at Sony's showcase!,No
+CAM1015,Apple Tech Extravaganza,23-07-2021,08-08-2021,Explore the best of tech with Apple's exclusive extravaganza!,No
+CAM1016,LG Summer Sensation,10-06-2022,25-06-2022,Don't miss out on LG's summer sensation deals!,No
+CAM1017,Bose Sound Revolution,07-02-2020,14-02-2020,Experience the future of sound technology with Bose!,No
+CAM1018,Adidas Active Lifestyle Expo,23-07-2021,08-08-2021,Join the Adidas Active Lifestyle Expo for exclusive offers!,No
+CAM1019,Microsoft Innovation Summit,10-11-2022,25-11-2022,Discover the latest innovations at Microsoft's summit!,No
+CAM1020,Canon Photography Workshop,01-01-2022,31-01-2022,Enhance your photography skills with Canon's workshop!,No
+CAM1021,Prada Fashion Extravaganza,07-02-2023,14-02-2023,Experience the ultimate fashion extravaganza at Prada!,No
+CAM1022,Honeywell Smart Living Expo,25-04-2023,10-05-2023,Transform your living space with Honeywell's smart living solutions!,No
+CAM1023,Samsung Galaxy Unpacked,20-06-2023,25-06-2023,Unveiling the new Samsung Galaxy series!,No
+CAM1024,Louis Vuitton Summer Collection,15-08-2023,31-08-2023,Discover the latest summer collection from Louis Vuitton!,No
+CAM1025,Nike Fall Fitness Fiesta,23-07-2021,08-08-2021,Get fit for fall with Nike's fitness fiesta!,No
+CAM1026,Sony Entertainment Showcase,01-12-2023,15-12-2023,Discover the best of Sony's entertainment products!,No
+CAM1027,Apple Holiday Spectacular,20-01-2024,25-01-2024,Celebrate the holidays with Apple's spectacular offers!,No
+CAM1028,LG Tech Extravaganza,10-03-2024,25-03-2024,Experience the best of LG's tech extravaganza!,No
+CAM1029,Bose Sound Sensation,01-05-2024,15-05-2024,Immerse yourself in the world of Bose sound technology!,No
+CAM1030,Adidas Summer Sports Showcase,23-07-2021,08-08-2021,Experience the latest in summer sports at Adidas' showcase!,No
+CAM1031,Microsoft Business Tech Expo,15-08-2024,31-08-2024,Discover the future of business technology at Microsoft's expo!,No
+CAM1032,Canon Summer Photography Masterclass,25-10-2024,10-11-2024,Unleash your creativity with Canon's summer photography masterclass!,No
+CAM1033,Prada Luxury Fashion Showcase,20-01-2025,25-01-2025,Indulge in luxury with exclusive offers from Prada!,No
+CAM1034,Honeywell Smart Home Expo,10-03-2025,25-03-2025,Transform your home with Honeywell's smart home solutions!,No
+CAM1035,Samsung Galaxy Unveiling,01-05-2025,15-05-2025,Be the first to experience the new Samsung Galaxy series!,No
+CAM1036,Louis Vuitton Summer Collection,20-06-2025,25-06-2025,Discover the latest summer collection from Louis Vuitton!,No
+CAM1037,Nike Fall Fitness Fiesta,23-07-2021,08-08-2021,Get fit for fall with Nike's fitness fiesta!,No
+CAM1038,Sony Entertainment Showcase,25-10-2025,10-11-2025,Discover the best of Sony's entertainment products!,No
+CAM1039,Apple Holiday Spectacular,01-12-2025,15-12-2025,Celebrate the holidays with Apple's spectacular offers!,No
+CAM1040,LG Tech Extravaganza,20-01-2026,25-01-2026,Experience the best of LG's tech extravaganza!,No
+CAM1041,Bose Sound Sensation,10-03-2026,25-03-2026,Immerse yourself in the world of Bose sound technology!,No
+CAM1042,Adidas Summer Sports Showcase,23-07-2021,08-08-2021,Experience the latest in summer sports at Adidas' showcase!,No
+CAM1043,Microsoft Business Tech Expo,20-06-2026,25-06-2026,Discover the future of business technology at Microsoft's expo!,No
+CAM1044,Canon Summer Photography Masterclass,15-08-2026,31-08-2026,Unleash your creativity with Canon's summer photography masterclass!,No
+CAM1045,Prada Luxury Fashion Showcase,25-10-2026,10-11-2026,Indulge in luxury with exclusive offers from Prada!,No
+CAM1046,Honeywell Smart Home Expo,01-12-2026,15-12-2026,Transform your home with Honeywell's smart home solutions!,No
+CAM1047,Samsung Galaxy Unveiling,20-01-2027,25-01-2027,Be the first to experience the new Samsung Galaxy series!,No
+CAM1048,Louis Vuitton Summer Collection,10-03-2027,25-03-2027,Discover the latest summer collection from Louis Vuitton!,No
+CAM1049,Nike Fall Fitness Fiesta,23-07-2021,08-08-2021,Get fit for fall with Nike's fitness fiesta!,No
+CAM1050,Sony Entertainment Showcase,20-06-2027,25-06-2027,Discover the best of Sony's entertainment products!,No
+CAM1051,Apple Holiday Spectacular,15-08-2027,31-08-2027,Celebrate the holidays with Apple's spectacular offers!,No
+CAM1052,LG Tech Extravaganza,25-10-2027,10-11-2027,Experience the best of LG's tech extravaganza!,No
+CAM1100,Puma Active Lifestyle Expo,23-07-2021,08-08-2021,Join the Puma Active Lifestyle Expo for exclusive offers!,
+CAM1053,Adidas Active Lifestyle Expo,23-07-2021,08-08-2021,Join the Adidas Active Lifestyle Expo for exclusive offers!,No
+CAM1054,Microsoft Innovation Summit,07-02-2020,14-02-2020,Discover the latest innovations at Microsoft's summit!,No
+CAM1055,Canon Photography Workshop,15-04-2022,22-04-2022,Enhance your photography skills with Canon's workshop!,No
+CAM1056,Prada Fashion Extravaganza,10-06-2020,15-06-2020,Experience the ultimate fashion extravaganza at Prada!,No
+CAM1057,Honeywell Smart Living Expo,25-08-2020,10-09-2020,Transform your living space with Honeywell's smart living solutions!,No
+CAM1058,Samsung Galaxy Unpacked,20-10-2020,25-10-2020,Unveiling the new Samsung Galaxy series!,No
+CAM1059,Louis Vuitton Summer Collection,15-01-2021,31-01-2021,Discover the latest summer collection from Louis Vuitton!,No
+CAM1060,Nike Fall Fitness Fiesta,23-07-2021,08-08-2021,Get fit for fall with Nike's fitness fiesta!,No
+CAM1061,Sony Entertainment Showcase,01-05-2021,15-05-2021,Discover the best of Sony's entertainment products!,No
+CAM1062,Apple Holiday Spectacular,20-06-2021,25-06-2021,Celebrate the holidays with Apple's spectacular offers!,No
+CAM1063,LG Tech Extravaganza,15-08-2021,31-08-2021,Experience the best of LG's tech extravaganza!,No
+CAM1064,Bose Sound Sensation,25-10-2021,10-11-2021,Immerse yourself in the world of Bose sound technology!,No
+CAM1065,Adidas Summer Sports Showcase,23-07-2021,08-08-2021,Experience the latest in summer sports at Adidas' showcase!,No
+CAM1066,Microsoft Business Tech Expo,10-03-2022,25-03-2022,Discover the future of business technology at Microsoft's expo!,No
+CAM1067,Canon Summer Photography Masterclass,01-05-2022,15-05-2022,Unleash your creativity with Canon's summer photography masterclass!,No
+CAM1068,Prada Luxury Fashion Showcase,20-06-2022,25-06-2022,Indulge in luxury with exclusive offers from Prada!,No
+CAM1069,Honeywell Smart Home Expo,15-08-2022,31-08-2022,Transform your home with Honeywell's smart home solutions!,No
+CAM1070,Samsung Galaxy Unveiling,25-10-2022,10-11-2022,Be the first to experience the new Samsung Galaxy series!,No
+CAM1071,Louis Vuitton Summer Collection,20-01-2023,25-01-2023,Discover the latest summer collection from Louis Vuitton!,No
+CAM1072,Nike Fall Fitness Fiesta,23-07-2021,08-08-2021,Get fit for fall with Nike's fitness fiesta!,No
+CAM1073,Sony Entertainment Showcase,01-05-2023,15-05-2023,Discover the best of Sony's entertainment products!,No
+CAM1074,Apple Holiday Spectacular,20-06-2023,25-06-2023,Celebrate the holidays with Apple's spectacular offers!,No
+CAM1075,LG Tech Extravaganza,15-08-2023,31-08-2023,Experience the best of LG's tech extravaganza!,No
+CAM1076,Bose Sound Sensation,25-10-2023,10-11-2023,Immerse yourself in the world of Bose sound technology!,No
+CAM1077,Adidas Summer Sports Showcase,23-07-2021,08-08-2021,Experience the latest in summer sports at Adidas' showcase!,No
+CAM1078,Microsoft Business Tech Expo,10-03-2024,25-03-2024,Discover the future of business technology at Microsoft's expo!,No
+CAM1079,Canon Summer Photography Masterclass,01-05-2024,15-05-2024,Unleash your creativity with Canon's summer photography masterclass!,No
+CAM1080,Prada Luxury Fashion Showcase,20-06-2024,25-06-2024,Indulge in luxury with exclusive offers from Prada!,No
+CAM1081,Honeywell Smart Home Expo,15-08-2024,31-08-2024,Transform your home with Honeywell's smart home solutions!,No
+CAM1082,Samsung Galaxy Unveiling,25-10-2024,10-11-2024,Be the first to experience the new Samsung Galaxy series!,No
+CAM1083,Louis Vuitton Winter Collection,07-02-2022,14-02-2022,Discover the latest Winter collection from Louis Vuitton!,No
+CAM1084,Nike Fall Fitness Fiesta,23-07-2021,08-08-2021,Get fit for fall with Nike's fitness fiesta!,No
+CAM1085,Sony Entertainment Showcase,01-05-2025,15-05-2025,Discover the best of Sony's entertainment products!,No
+CAM1086,Apple Holiday Spectacular,20-06-2025,25-06-2025,Celebrate the holidays with Apple's spectacular offers!,No
+CAM1087,LG Tech Extravaganza,15-08-2025,31-08-2025,Experience the best of LG's tech extravaganza!,No
+CAM1088,Bose Sound Sensation,25-10-2025,10-11-2025,Immerse yourself in the world of Bose sound technology!,No
+CAM1089,Adidas Summer Sports Showcase,23-07-2021,08-08-2021,Experience the latest in summer sports at Adidas' showcase!,No
+CAM1090,Microsoft Business Tech Expo,20-10-2022,27-10-2022,Discover the future of business technology at Microsoft's expo!,No
+CAM1091,Canon Summer Photography Masterclass,01-05-2026,15-05-2026,Unleash your creativity with Canon's summer photography masterclass!,No
+CAM1092,Prada Luxury Fashion Showcase,07-02-2023,14-02-2023,Indulge in luxury with exclusive offers from Prada!,No
+CAM1093,Honeywell Smart Home Expo,15-08-2026,31-08-2026,Transform your home with Honeywell's smart home solutions!,No
+CAM1094,Samsung Galaxy Unveiling,25-10-2026,10-11-2026,Be the first to experience the new Samsung Galaxy series!,No
+CAM1095,Louis Vuitton Summer Collection,20-01-2027,25-01-2027,Discover the latest summer collection from Louis Vuitton!,No
+CAM1096,Nike Fall Fitness Fiesta,23-07-2021,08-08-2021,Get fit for fall with Nike's fitness fiesta!,No
+CAM1097,Sony Entertainment Showcase,01-05-2027,15-05-2027,Discover the best of Sony's entertainment products!,No
+CAM1098,Apple Holiday Spectacular,20-06-2027,25-06-2027,Celebrate the holidays with Apple's spectacular offers!,No
+CAM1099,LG Tech Extravaganza,15-08-2027,31-08-2027,Experience the best of LG's tech extravaganza!,No
+CAM1100,Bose Sound Sensation,25-10-2027,10-11-2027,Immerse yourself in the world of Bose sound technology!,No
+CAM1101,Samsung Digital Red Packet,,,"Samsung may partner with payment platforms or banks to offer digital red packet promotions, allowing customers to receive cashback, discounts, or special rewards when making purchases using Samsung Pay or other mobile payment methods",
+CAM1102,Xiamo Lunar New Year Theme,,,Xiaomi New Year Lunar Theme,
+CAM1103,Winter Sale,15-11-2023,31-12-2023,Celebrate the season with discounts on Apparel and Home Decor,
+CAM1104,Festive Fiesta,20-11-2023,31-12-2023,Get into the festive spirit with discounts on Accessories and Kitchen & Dining,
+CAM1105,Holiday Extravaganza,25-11-2023,31-12-2023,Unwrap savings on Home Decor and Food & Beverages,
+CAM1106,Joyful Jamboree,30-11-2023,31-12-2023,Spread joy with discounts on Kitchen & Dining and Accessories,
+CAM1116,Joyful Jamboree,01-11-2021,05-11-2021,Spread joy with discounts on Kitchen & Dining and Accessories,
+CAM1107,Christmas Cheer,05-12-2023,31-12-2023,Experience the magic with discounts on Apparel and Electronics,
+CAM1108,Seasonal Splendor,10-12-2023,31-12-2023,Find the perfect gifts with discounts on Books & Stationery and Home Decor,
+CAM1109,Festive Finds,15-12-2023,31-12-2023,Discover holiday treasures with discounts on Travel & Luggage and Home Decor,
+CAM1110,Gifts Galore,20-12-2023,31-12-2023,Give the gift of savings with discounts on Accessories and Apparel,
+CAM1111,Yuletide Yummies,25-12-2023,31-12-2023,Indulge in festive treats with discounts on Food & Beverages and Kitchen & Dining,
+CAM1112,Merry Must-Haves,30-12-2023,31-12-2023,Ring in the new year with discounts on Home Decor and Accessories,
+CAM1113,Winter Wonderland,31-12-2023,31-12-2023,Create memories with discounts on Apparel and Home Decor,
+CAM1114,Cozy Comforts,01-01-2024,31-01-2024,Embrace the new year with discounts on Home Decor and Electronics,
+CAM1115,"New Year, New You",05-01-2024,31-01-2024,Start fresh with discounts on Accessories and Books & Stationery,
+CAM1116,Resolution Revamp,10-01-2024,31-01-2024,Achieve your goals with discounts on Kitchen & Dining and Travel & Luggage,
+CAM1117,Fresh Start,15-01-2024,31-01-2024,Renew and refresh with discounts on Home Decor and Apparel,
+CAM1118,New Beginnings,20-01-2024,31-01-2024,Step into something new with discounts on Electronics and Food & Beverages,
+CAM1119,Easter with Us,15-03-2022,15-04-2022,Celebrate Easter with our exclusive kitchen & dining collection!,Kitchen & Dining
+CAM1120,Discover Easter with Us,20-03-2022,20-04-2022,Discover joy this Easter with our delightful range of toys!,Toys
+CAM1121,Transform your Home with US,18-03-2022,18-04-2022,Transform your home this Easter with our exquisite home decor pieces!,Home Decor
+CAM1122,Read me in Easter,25-03-2022,25-04-2022,Indulge in the joy of reading with our specially curated Easter books!,Books
+CAM1123,Spread Easter Cheer,22-03-2022,22-04-2022,Spread Easter cheer with our vibrant and fresh flower arrangements!,Flowers
+CAM1124,Creativity in Easter,28-03-2022,28-04-2022,Unleash your creativity this Easter with our inspiring crafts collection!,Crafts

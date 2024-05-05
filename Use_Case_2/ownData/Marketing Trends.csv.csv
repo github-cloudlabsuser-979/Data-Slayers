@@ -1,0 +1,103 @@
+Trend_ID,Trend_Type,Trend_Description,date
+1,Technology,Apple Laptop,03-09-2020
+2,Fashion,Sustainable Fabrics,28-02-2021
+3,Health,Mental Wellness,10-09-2022
+4,Food,Plant-Based Diets,17-04-2023
+5,Environment,Renewable Energy,05-01-2024
+6,Travel,Eco-Tourism,20-08-2020
+7,Finance,Cryptocurrency,30-11-2021
+8,Entertainment,Virtual Reality,12-07-2022
+9,Education,Online Learning,25-03-2023
+10,Sports,Esports,08-06-2024
+11,Beauty,Inclusive Cosmetics,01-12-2020
+12,Automotive,Electric Vehicles,14-05-2021
+13,Home,Smart Home Technology,29-10-2022
+14,Music,Music Streaming,15-02-2023
+15,Lifestyle,Mindfulness,02-09-2024
+16,Art,Digital Art,11-04-2020
+17,Social Media,Influencer Marketing,23-07-2021
+18,Gaming,Cloud Gaming,14-02-2020
+19,Fitness,Home Workouts,27-05-2020
+20,Technology,5G Technology,12-03-2024
+21,Fashion,Gender-Neutral Fashion,25-12-2022
+22,Health,Holistic Health,18-08-2021
+23,Food,Organic Farming,27-05-2022
+24,Environment,Zero Waste Living,09-01-2023
+25,Travel,Slow Travel,21-07-2024
+26,Finance,Financial Inclusion,03-03-2020
+27,Entertainment,Live Streaming,28-01-2023
+28,Education,STEAM Education,06-04-2022
+29,Sports,Adaptive Sports,14-08-2023
+30,Beauty,Clean Beauty,28-02-2024
+31,Automotive,Autonomous Vehicles,17-12-2020
+32,Home,Urban Gardening,29-06-2021
+33,Music,Podcasting,11-11-2022
+34,Lifestyle,Minimalism,22-05-2023
+35,Art,Street Art,08-10-2024
+36,Social Media,TikTok Marketing,01-09-2020
+37,Gaming,Mobile Gaming,20-12-2021
+38,Fitness,Outdoor Fitness,22-07-2021
+39,Technology,Quantum Computing,18-04-2023
+40,Fashion,Upcycled Fashion,30-01-2024
+41,Health,wearables,14-07-2020
+42,Environment,Sustainable Packaging,27-03-2021
+43,Travel,Cultural Immersion,11-08-2022
+44,Finance,Impact Investing,04-12-2023
+45,Entertainment,Augmented Reality,18-05-2024
+46,Education,Distance Learning,19-11-2020
+47,Sports,Mindful Movement,30-06-2022
+48,Beauty,Empowering Skincare,15-10-2022
+49,Automotive,Connected Vehicles,26-02-2023
+50,Home,Minimalist Living,10-09-2024
+51,Music,Live Concert Streaming,14-02-2021
+52,Lifestyle,Self-Care Practices,16-07-2021
+53,Art,Immersive Art Installations,29-11-2022
+54,Social Media,Authentic Influencer Campaigns,13-06-2023
+55,Gaming,Cross-Platform Gaming,25-01-2024
+56,Fitness,Wellness Retreats,28-02-2022
+57,Technology,Robotics and Automation,20-05-2021
+58,Fashion,Body Positivity Fashion,14-02-2023
+59,Health,Digital Health Monitoring,16-03-2023
+60,Food,Culinary Fusion,28-08-2024
+61,Environment,Circular Economy Practices,29-02-2020
+62,Travel,Adventure Travel,10-09-2021
+63,Finance,Fintech Innovations,22-04-2022
+64,Entertainment,Immersive Theater,05-10-2023
+65,Education,Experiential Learning,18-05-2024
+66,Sports,Mindful Competition,15-02-2023
+67,Beauty,Sustainable Beauty,11-06-2021
+68,Automotive,Shared Mobility Solutions,23-01-2022
+69,Home,Co-Living Spaces,06-07-2023
+70,Music,Interactive Music Experiences,19-01-2024
+71,Lifestyle,Digital Wellbeing,22-04-2022
+72,Art,Artificial Intelligence Art,04-02-2021
+73,Social Media,Micro-Influencers,17-07-2022
+74,Gaming,Indie Game Development,29-12-2023
+75,Fitness,Mindful Movement,07-08-2021
+76,Technology,IoT Integration,13-12-2020
+77,Fashion,Sustainable Footwear,21-07-2021
+78,Health,Telemedicine,08-10-2022
+79,Food,Ethical Eating,21-05-2023
+80,Environment,Sustainable Fashion,03-11-2024
+81,Travel,Sustainable Tourism,14-06-2020
+82,Finance,Blockchain Technology,26-01-2021
+83,Entertainment,Interactive Storytelling,08-08-2022
+84,Education,Global Learning Experiences,19-02-2023
+85,Sports,Mindful Training,01-09-2024
+86,Beauty,Clean Skincare,03-04-2020
+87,Automotive,Electric Scooters,15-10-2021
+88,Home,Eco-Friendly Living,27-08-2021
+89,Music,Immersive Music Festivals,08-08-2023
+90,Lifestyle,Holistic Living,20-01-2024
+91,Art,Interactive Art Exhibits,30-11-2020
+92,Social Media,Authentic Content Creation,12-07-2021
+93,Gaming,Retro Gaming Revival,25-12-2022
+94,Fitness,Mindful Fitness Practices,07-06-2023
+95,Technology,Augmented Intelligence,10-01-2024
+96,Fashion,Inclusive Fashion Design,21-07-2020
+97,Health,Integrated Wellness,02-12-2021
+98,Food,Cultural Cuisine Fusion,15-05-2022
+99,Environment,Regenerative Agriculture,28-10-2023
+100,Travel,Responsible Travel,09-04-2024
+101,Photography,Photography ,01-01-2022
+102,Fitness,Fitness,01-01-2020
