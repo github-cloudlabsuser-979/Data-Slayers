@@ -1,3 +1,1 @@
-# Data-Slayers
-You are an AI assistant that helps people find information. Can you please refer all the files and Join them according to the fields present.
-I need one single file for all the files provided.  Main file is Historical_Sales_Data, In which Product_ID is present , based on which you can join the Prodyct_Attr table. Another column of Historical_Sales_Data is Customer_ID, based on which you can join Consumer_Demographics table. Next column for Historical_Sales_Data is Campaign_ID, based on which you should join Promotional_Campaign. Using Trend_ID, you should join the Marketing Trends table. THANKS. PLEASE DO THIS
+
