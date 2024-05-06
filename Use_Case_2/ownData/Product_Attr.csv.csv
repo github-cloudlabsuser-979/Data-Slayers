@@ -1,0 +1,149 @@
+Product_ID,ProductName,Category,SubCategory,Brand,Description,
+2001,Laptop,Electronics,Computers,Apple,Sleek and high-performance laptop with advanced features,
+2002,Running Shoes,Sports,Athletic Footwear,Adidas,Comfortable and durable shoes for running enthusiasts,
+2003,Coffee Maker,Appliances,Kitchen Appliances,Nespresso,Modern coffee maker with customizable brewing options,
+2004,Sunglasses,Fashion,Eyewear,Prada,Fashionable and elegant sunglasses for all occasions,
+2005,Smartphone,Electronics,Mobile Phones,Huawei,Innovative smartphone with cutting-edge technology and sleek design,
+2006,Yoga Mat,Sports,Yoga & Pilates,Gaiam,Eco-friendly yoga mat for enhanced comfort and stability during practice,
+2007,Digital Camera,Electronics,Photography,Sony,High-quality digital camera for stunning photography and videography,
+2008,Backpack,Fashion,Bags & Luggage,Herschel,Stylish and durable backpack for everyday use and travel adventures,
+2009,Dumbbells,Sports,Strength Training,Under Armour,Premium dumbbells for effective and efficient workouts,
+2010,Air Fryer,Appliances,Cooking Appliances,Instant Pot,Versatile air fryer for healthier and flavorful cooking experiences,
+2011,Gaming Console,Electronics,Gaming,Xbox,Immersive gaming console for thrilling entertainment experiences and multiplayer gaming,
+2012,Tennis Racket,Sports,Tennis,Head,High-performance tennis racket for precision and power on the court,
+2013,Portable Speaker,Electronics,Audio,Harman Kardon,Compact and powerful portable speaker for immersive music experiences,
+2014,Blender,Appliances,Kitchen Appliances,Blendtec,Professional-grade blender for smooth and efficient blending of ingredients,
+2015,Watch,Fashion,Accessories,Prada,Stylish and functional watch for everyday elegance and luxury appeal,
+2016,Treadmill,Sports,Cardio Equipment,NordicTrack,Advanced treadmill for effective indoor workouts and personalized training programs,
+2017,Hair Dryer,Appliances,Personal Care Appliances,Remington,Innovative hair dryer for fast and gentle drying with customizable settings,
+2018,Hiking Boots,Fashion,Footwear,Timberland,Durable and supportive hiking boots for outdoor enthusiasts and rugged terrains,
+2019,Electric Toothbrush,Appliances,Oral Care Appliances,Oral-B,Efficient and gentle electric toothbrush for comprehensive oral hygiene,
+2020,Headphones,Electronics,Audio,Sennheiser,Premium noise-canceling headphones for immersive listening experiences and audiophile-grade sound quality,
+2021,Cycling Helmet,Sports,Cycling,Rudy Project,Safety-focused cycling helmet for comfortable and secure rides with aerodynamic design,
+2022,Food Processor,Appliances,Food Preparation Appliances,Magimix,Versatile food processor for efficient meal preparation and culinary creativity,
+2023,Running Jacket,Fashion,Athletic Apparel,Nike,Lightweight and weather-resistant jacket for running in all conditions with reflective elements for visibility,
+2024,Smart Watch,Electronics,Wearable Technology,Fitbit,"Feature-rich smart watch for fitness tracking, health monitoring, and everyday use",
+2025,Juicer,Appliances,Kitchen Appliances,Omega,Efficient juicer for extracting fresh and nutritious juices with pulp control settings,
+2026,Soccer Ball,Sports,Soccer,Puma,High-quality soccer ball for optimal performance and durability on the field,
+2027,Air Purifier,Appliances,Air Quality Appliances,Dyson,Effective air purifier for clean and healthy indoor air with intelligent purification technology,
+2028,Winter Jacket,Fashion,Outerwear,Canada Goose,Warm and stylish winter jacket for cold weather adventures and extreme conditions,
+2029,Wireless Earbuds,Electronics,Audio,Sennheiser,"Wireless earbuds with high-quality sound, comfortable fit, and customizable EQ settings",
+2030,Yoga Blocks,Sports,Yoga & Pilates,Manduka,"Supportive and durable yoga blocks for improved alignment, balance, and yoga practice variations",
+2031,Hand Mixer,Appliances,Kitchen Appliances,Smeg,Vintage-inspired hand mixer for efficient and effortless mixing with multiple speed options,
+2032,Sunglasses,Fashion,Eyewear,Tom Ford,Luxurious and stylish sunglasses for active lifestyles and fashion-forward individuals,
+2033,Camping Tent,Outdoor,Camping & Hiking,Big Agnes,Spacious and weather-resistant camping tent for outdoor adventures and camping trips,
+2034,Electric Kettle,Appliances,Kitchen Appliances,Russell Hobbs,Quick-boiling electric kettle for convenient hot beverages and modern kitchen aesthetics,
+2035,Swimming Goggles,Sports,Swimming,TYR,Comfortable and hydrodynamic swimming goggles for clear vision in the water and competitive swimming,
+2036,Robot Vacuum,Appliances,Cleaning Appliances,Ecovacs,Efficient and intelligent robot vacuum for automated cleaning tasks and smart home integration,
+2037,Baseball Glove,Sports,Baseball & Softball,Mizuno,Durable and high-performance baseball glove for fielding and catching in competitive games,
+2038,Electric Blanket,Appliances,Bedding & Linens,Biddeford,"Warm and cozy electric blanket for cold nights, relaxation, and therapeutic warmth",
+2039,Hiking Backpack,Fashion,Bags & Luggage,Arc'teryx,Comfortable and durable hiking backpack for long outdoor excursions and backcountry adventures,
+2040,Digital Scale,Appliances,Kitchen Appliances,Ozeri,Accurate and versatile digital scale for precise measurements in the kitchen and dietary tracking,
+2041,Snowboard,Sports,Snowboarding,Salomon,High-quality snowboard for thrilling downhill rides in the snow and freestyle snowboarding maneuvers,
+2042,Vacuum Cleaner,Appliances,Cleaning Appliances,Miele,Powerful and versatile vacuum cleaner for efficient cleaning and superior dust retention,
+2043,Golf Clubs,Sports,Golf,TaylorMade,Premium golf clubs for superior performance on the golf course and customizable club fitting options,
+2044,Electric Shaver,Appliances,Personal Care Appliances,Panasonic,Efficient and gentle electric shaver for smooth and comfortable shaving with precision trimmer,
+2045,Polaroid Camera,Electronics,Photography,Fujifilm,Instant-print polaroid camera for capturing memorable moments on the go with retro design elements,
+2046,Skateboard,Sports,Skateboarding,Element,Durable and maneuverable skateboard for skating enthusiasts and street skateboarding tricks,
+2047,Humidifier,Appliances,Air Quality Appliances,Vicks,Quiet and efficient humidifier for maintaining optimal indoor humidity levels and soothing vapor therapy,
+2048,Ski Goggles,Sports,Skiing & Snowboarding,Oakley,Durable and fog-resistant ski goggles for clear vision on the slopes and high-speed skiing,
+2049,Slow Cooker,Appliances,Cooking Appliances,Hamilton Beach,Versatile slow cooker for flavorful and convenient meal preparation with programmable cooking modes,
+2050,Pedometer,Electronics,Wearable Technology,Garmin,Accurate and user-friendly pedometer for tracking daily activity levels and personalized fitness goals,
+2051,Yoga Pants,Fashion,Activewear,Lululemon,High-quality yoga pants for comfort and flexibility during yoga practice and workouts,
+2052,Smartphone,Electronics,Mobile Phones,Samsung,"Feature-rich smartphone for seamless communication, entertainment, and productivity",
+2053,Backpack,Travel,Outdoor Backpacks,Osprey,Durable and ergonomic backpack for outdoor adventures and travel expeditions,
+2054,Running Shoes,Fashion,Footwear,Puma,Lightweight and supportive running shoes for enhanced performance and comfort during runs,
+2055,Coffee Maker,Appliances,Coffee Appliances,Keurig,Convenient and versatile coffee maker for brewing a variety of coffee beverages at home,
+2056,Hiking Boots,Fashion,Footwear,Merrell,Versatile and rugged hiking boots for all-terrain exploration and outdoor activities,
+2057,Wireless Headphones,Electronics,Audio,Bose,Premium wireless headphones for immersive sound and comfortable listening experiences,
+2058,Cycling Jersey,Fashion,Activewear,Castelli,High-performance cycling jersey for aerodynamics and comfort during long rides and races,
+2059,Desktop Computer,Electronics,Computers,Apple,Powerful desktop computer for professional productivity and creative tasks,
+2060,Tennis Shoes,Fashion,Footwear,Nike,Durable and stylish tennis shoes for optimal performance on the court and everyday wear,
+2061,Portable Charger,Electronics,Accessories,Anker,Compact and high-capacity portable charger for on-the-go charging of electronic devices,
+2062,Yoga Towel,Fashion,Activewear,Manduka,Absorbent and slip-resistant yoga towel for hygiene and stability during yoga practice,
+2063,Air Purifier,Appliances,Air Quality Appliances,Honeywell,Efficient air purifier for clean and fresh indoor air with HEPA filtration technology,
+2064,Dumbbells,Sports,Strength Training,Bowflex,Adjustable dumbbells for versatile and effective strength training workouts at home,
+2065,Digital Watch,Fashion,Accessories,Casio,Classic and reliable digital watch for everyday timekeeping and outdoor activities,
+2066,Resistance Bands,Sports,Fitness Accessories,TheraBand,"Versatile and durable resistance bands for strength training, rehabilitation, and flexibility exercises",
+2067,Blender,Appliances,Kitchen Appliances,Ninja,"Powerful blender for smooth and nutrient-rich smoothies, shakes, and food processing",
+2068,Hiking Backpack,Fashion,Bags & Luggage,Deuter,Comfortable and spacious hiking backpack for extended outdoor adventures and trekking expeditions,
+2069,Smart Thermostat,Appliances,Smart Home Devices,Nest,Energy-efficient smart thermostat for personalized climate control and home automation,
+2070,Running Jacket,Fashion,Athletic Apparel,Adidas,Weather-resistant running jacket for protection and visibility during outdoor runs and training,
+2071,Wireless Speaker,Electronics,Audio,JBL,Portable and waterproof wireless speaker for powerful and immersive music playback on the go,
+2072,Food Processor,Appliances,Food Preparation Appliances,Cuisinart,"Versatile food processor for chopping, slicing, and pureeing ingredients in the kitchen",
+2073,Treadmill,Appliances,Fitness Equipment,ProForm,"Interactive treadmill for virtual training, entertainment, and personalized workout experiences",
+2074,Electric Toothbrush,Appliances,Oral Care Appliances,Philips Sonicare,Advanced electric toothbrush for thorough cleaning and gum care with smart brushing technology,
+2075,Headphones,Electronics,Audio,Sony,Wireless noise-canceling headphones for premium sound quality and long-lasting comfort during extended use,
+2076,Cycling Helmet,Fashion,Activewear,POC,"High-performance cycling helmet for safety, ventilation, and aerodynamics during rides and races",
+2077,Food Scale,Appliances,Kitchen Appliances,Escali,Accurate and compact food scale for precise measurements and portion control in the kitchen,
+2078,Smart Watch,Electronics,Wearable Technology,Apple,"Innovative smart watch for fitness tracking, health monitoring, and seamless connectivity with Apple devices",
+2079,Juicer,Appliances,Kitchen Appliances,Breville,Powerful and efficient juicer for extracting fresh and nutrient-rich juices from fruits and vegetables,
+2080,Soccer Cleats,Fashion,Footwear,Puma,"Professional soccer cleats for traction, speed, and control on the field during matches and training",
+2081,Air Purifier,Appliances,Air Quality Appliances,Levoit,"Quiet and effective air purifier for allergies, odors, and improved indoor air quality at home",
+2082,Winter Jacket,Fashion,Outerwear,The North Face,Insulated and weatherproof winter jacket for cold weather activities and outdoor excursions,
+2083,Wireless Earbuds,Electronics,Audio,Beats by Dre,Sleek and high-performance wireless earbuds for immersive sound and active lifestyles,
+2084,Yoga Blocks,Sports,Yoga & Pilates,Hugger Mugger,"Lightweight and supportive yoga blocks for stability, alignment, and yoga practice variations",
+2085,Hand Mixer,Appliances,Kitchen Appliances,KitchenAid,Powerful and versatile hand mixer for effortless mixing and blending in the kitchen,
+2086,Sunglasses,Fashion,Eyewear,Ray-Ban,Iconic and stylish sunglasses for UV protection and timeless fashion statements,
+2087,Camping Tent,Outdoor,Camping & Hiking,Coleman,Spacious and weather-resistant camping tent for family camping trips and outdoor adventures,
+2088,Electric Kettle,Appliances,Kitchen Appliances,Breville,"Fast-boiling electric kettle for tea, coffee, and hot beverage preparations with precise temperature control",
+2089,Swimming Goggles,Sports,Swimming,Speedo,Hydrodynamic swimming goggles for clear vision and reduced drag in the water during swim training and competitions,
+2090,Robot Vacuum,Appliances,Cleaning Appliances,iRobot,Intelligent robot vacuum for automated floor cleaning and smart home integration with voice control,
+2091,Baseball Bat,Sports,Baseball & Softball,Easton,Durable and high-performance baseball bat for power hitting and precise ball contact in games and training,
+2092,Electric Blanket,Appliances,Bedding & Linens,Sunbeam,"Luxurious and cozy electric blanket for warmth, relaxation, and therapeutic comfort on cold nights",
+2093,Hiking Backpack,Fashion,Bags & Luggage,Patagonia,Durable and sustainable hiking backpack for outdoor exploration and eco-conscious adventures,
+2094,Digital Scale,Appliances,Kitchen Appliances,Escali,Sleek and accurate digital scale for precise measurements and portion control in cooking and baking,
+2095,Snowboard,Sports,Snowboarding,Burton,High-performance snowboard for freestyle and alpine riding on snow and terrain parks,
+2096,Vacuum Cleaner,Appliances,Cleaning Appliances,Shark,Versatile and powerful vacuum cleaner for deep cleaning and allergen removal in homes and spaces,
+2097,Golf Clubs,Sports,Golf,Callaway,"Premium golf clubs for distance, accuracy, and customization options on the golf course and driving range",
+2098,Electric Shaver,Appliances,Personal Care Appliances,Braun,Efficient and precise electric shaver for smooth and comfortable shaving with skin protection technology,
+2099,Polaroid Camera,Electronics,Photography,Polaroid Originals,Instant-print polaroid camera for nostalgic and creative photography moments with vintage aesthetics,
+2100,Skateboard,Sports,Skateboarding,Globe,"Durable and stylish skateboard for cruising, tricks, and street skateboarding with responsive maneuverability",
+2101,Traditional Clothes ,Clothes ,Traditional Clothes ,Hanfu Culture,,
+2102,Samsung Galaxy S Series,Electronics,Mobile Phones ,Samsung,,
+2103,Xiaomi TV,Appliances,Televison,Xiaomi,,
+1001,Cozy Winter Sweater,Apparel,Winter Clothing,Warm & Cozy,Cape Town,Stay warm and stylish with this high-quality sweater made for the winter season.
+1002,Festive Holiday Dress,Apparel,Party Wear,Glamour Galore,Paris,Shine bright at holiday parties with this elegant and festive dress that's perfect for the season.
+1003,Sparkling Christmas Lights,Home Decor,Holiday Decorations,Twinkle Time,Mumbai,"Illuminate your home with these beautiful and energy-efficient Christmas lights, creating a joyful ambiance."
+1004,Luxury Leather Handbag,Accessories,Bags,Elite Elegance,Delhi,Add a touch of sophistication to your ensemble with this luxurious and finely crafted leather handbag.
+1005,Festive Cocktail Set,Kitchen & Dining,Drinkware,Mixology Master,Mexico City,"Elevate your holiday gatherings with this exquisite cocktail set, perfect for creating festive drinks."
+1006,Artisanal Scented Candles,Home Decor,Candles & Fragrances,Aroma Artistry,Bangalore,"Indulge in the delightful aromas of these handcrafted scented candles, adding warmth and charm to any space."
+1007,Gourmet Chocolate Collection,Food & Beverages,Confectionery,Decadent Delights,Mumbai,"Satisfy your sweet cravings with this premium assortment of gourmet chocolates, a perfect holiday treat."
+1008,Fine China Tea Set,Kitchen & Dining,Serveware,Elegant Tea,Beijing,"Experience the timeless elegance of this fine china tea set, perfect for serving tea in style during the holidays."
+1009,Designer Watch Collection,Accessories,Watches,Timeless Trends,Madrid,"Elevate your style with these designer timepieces, exuding elegance and precision for any occasion."
+1010,Luxurious Silk Scarves,Apparel,Accessories,Silk Sensation,Barcelona,"Wrap yourself in luxury with these exquisite silk scarves, adding a touch of glamour to your holiday ensemble."
+1011,Vintage Vinyl Record Player,Electronics,Audio,Retro Revival,Brussels,"Experience the nostalgic charm of vinyl records with this vintage record player, perfect for music enthusiasts and collectors."
+1012,Handcrafted Leather Journal,Books & Stationery,Stationery,Artisan Accents,Copenhagen,"Capture your thoughts and memories in style with this handcrafted leather journal, a perfect holiday gift for writers."
+1013,Artisanal Pottery Set,Home Decor,Art & Craft,Earthen Elegance,Madrid,"Adorn your home with the beauty of artisanal pottery, adding a touch of rustic charm to your holiday decor."
+1014,European Travel Backpack,Travel & Luggage,Backpacks,Wanderlust,Prague,"Embark on your adventures with this durable and stylish European travel backpack, designed for comfort and convenience."
+1015,Antique Brass Table Lamp,Home Decor,Lighting,Vintage Glow,Rome,"Illuminate your space with a touch of vintage elegance using this antique brass table lamp, a perfect addition to your holiday decor."
+1016,Luxury Leather Wallet,Accessories,Wallets,Supreme Style,Zurich,"Organize your essentials in style with this luxurious leather wallet, combining functionality with timeless sophistication."
+1017,Cosy Knit Blanket,Home Decor,Bedding,Snug & Stylish,Cape Town,"Stay warm and snug with this high-quality knit blanket, perfect for cozying up during the holiday season."
+1018,Festive Party Shoes,Apparel,Footwear,Dazzle & Dance,Paris,"Step into the holiday spirit with these stylish and festive party shoes, designed to make you shine at any celebration."
+1019,Holiday Baking Set,Kitchen & Dining,Bakeware,Bake Bliss,Mumbai,"Create delicious holiday treats with this complete baking set, perfect for adding joy to your festive gatherings."
+1020,Luxury Timepiece Collection,Accessories,Watches,Elegant Essence,Delhi,"Adorn your wrist with timeless elegance using this luxury timepiece collection, a perfect accessory for any holiday ensemble."
+1021,Festive Tableware Set,Kitchen & Dining,Serveware,Festive Flair,Mexico City,"Elevate your holiday dining experience with this exquisite tableware set, adding a touch of festive charm to your table."
+1022,Handcrafted Holiday Ornaments,Home Decor,Holiday Decorations,Crafted Cheer,Bangalore,"Adorn your home with handcrafted holiday ornaments, adding a personal touch to your festive decor."
+1023,Deluxe Wine & Cheese Hamper,Food & Beverages,Gourmet Foods,Indulge & Enjoy,Mumbai,"Indulge in a delightful assortment of wine and cheese with this deluxe hamper, perfect for holiday entertaining."
+1024,Elegant Tea & Coffee Set,Kitchen & Dining,Serveware,Timeless Taste,Beijing,"Savor the flavors of the season with this elegant tea and coffee set, perfect for serving warm beverages during the holidays."
+1025,Artisanal Jewelry Collection,Accessories,Jewelry,Artistic Allure,Madrid,"Adorn yourself with the beauty of artisanal jewelry, exuding unique charm and elegance for the holiday season."
+1026,Festive Home Fragrance Set,Home Decor,Candles & Fragrances,Festive Aromas,Barcelona,"Fill your home with the delightful scents of the season with this festive home fragrance set, creating a warm and inviting atmosphere."
+1027,Vintage Film Camera,Electronics,Photography,Classic Captures,Brussels,"Capture timeless moments with this vintage film camera, perfect for photography enthusiasts and creative minds."
+1028,Luxurious Leather Travel Journal,Books & Stationery,Travel Accessories,Traveler's Elegance,Copenhagen,"Document your travels in style with this luxurious leather travel journal, a perfect companion for holiday adventures."
+1029,Artisanal Glassware Collection,Home Decor,Glassware,Artisan Elegance,Madrid,"Elevate your dining experience with the beauty of artisanal glassware, adding a touch of sophistication to your holiday table."
+1030,Exotic Travel Luggage Set,Travel & Luggage,Luggage,Global Getaways,Prague,"Embark on your journeys with this exotic travel luggage set, designed for both style and practicality during the holiday season."
+1031,Antique Silver Candle Holder,Home Decor,Candles & Fragrances,Vintage Glow,Rome,"Illuminate your space with a touch of antique elegance using this silver candle holder, a perfect addition to your holiday decor."
+1032,Luxury Leather Travel Bag,Travel & Luggage,Travel Accessories,Timeless Travels,Zurich,"Travel in style with this luxury leather travel bag, combining elegance with functionality for your holiday adventures."
+1033,Festive Home Decor Set,Home Decor,Holiday Decorations,Festive Fusion,Cape Town,"Enliven your home with this festive home decor set, adding a touch of cultural charm to your holiday celebrations."
+1034,Artisanal Silk Scarf,Apparel,Accessories,Silk Splendor,Paris,"Elevate your style with this artisanal silk scarf, exuding elegance and sophistication, a perfect accessory for holiday ensembles."
+1035,Holiday Gourmet Hamper,Food & Beverages,Gourmet Foods,Gastronomic Delights,Mumbai,"Indulge in a delightful assortment of gourmet treats with this holiday gourmet hamper, perfect for festive entertaining."
+1036,Vintage Leather Travel Case,Travel & Luggage,Travel Accessories,Classic Travels,Delhi,"Travel in timeless style with this vintage leather travel case, combining elegance with practicality for your holiday adventures."
+1037,Handcrafted Artisan Jewelry,Accessories,Jewelry,Artistic Allure,Mexico City,"Adorn yourself with the unique beauty of handcrafted artisan jewelry, exuding charm and elegance for the holiday season."
+1038,Classic Vinyl Record Collection,Electronics,Audio,Retro Revival,Bangalore,"Experience the classic charm of vinyl records with this curated collection, perfect for music enthusiasts and collectors during the holidays."
+1039,Luxury Cashmere Throw,Home Decor,Bedding,Opulent Comfort,Madrid,"Stay warm and stylish with this luxurious cashmere throw, perfect for cozying up during the holiday season."
+1040,Elegant Crystal Glass Set,Kitchen & Dining,Glassware,Crystal Elegance,Barcelona,"Elevate your dining experience with this elegant crystal glass set, adding a touch of sophistication to your holiday table."
+1041,Easter Bunny Plush Toy,Toys,Stuffed Animals,Hoppy Holidays,"Soft and cuddly plush bunny, perfect for Easter gifts",
+1042,Pastel Easter Egg Decorations,Home Decor,Seasonal Decor,Springtime Delights,Set of 12 pastel-colored eggs for Easter decorating,
+1043,Easter Brunch Cookbook,Books,Cookbooks,Sunny Side Publications,Collection of recipes for a delightful Easter brunch,
+1044,Easter Lily Bouquet,Flowers,Fresh Flowers,Blossom Blooms,Fragrant white lilies arranged in a beautiful Easter bouquet,
+1045,Easter Egg Dye Kit,Crafts,Kids Crafts,Colorful Creations Co.,Complete kit for dyeing and decorating Easter eggs at home,
